@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\snake\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Admin\source\repos\snake\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Admin\source\repos\snake\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Admin\source\repos\snake\Snake\Snake\bin\Debug\WindowsBase.dll
+C:\Users\Admin\source\repos\snake\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\snake\Snake\Snake\obj\Debug\Snake.csproj.CopyComplete
+C:\Users\Admin\source\repos\snake\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Admin\source\repos\snake\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\User\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\User\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\User\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\User\Desktop\Snake\Snake\bin\Debug\WindowsBase.dll
+C:\Users\User\Desktop\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Snake\Snake\obj\Debug\Snake.csproj.CopyComplete
+C:\Users\User\Desktop\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\User\Desktop\Snake\Snake\obj\Debug\Snake.pdb
